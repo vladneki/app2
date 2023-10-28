@@ -1,0 +1,19 @@
+.text{
+    color: blue;
+    display: block;
+}
+blockquote{
+    border: 10;
+}
+header{
+    width: 100%;
+    background: #b603e2;
+    height: 50px;
+    max-height: 1330;
+}
+a{
+    color: rgb(10, 240, 41);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
